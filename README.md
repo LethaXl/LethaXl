@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aseefnazrul">LinkedIn</a> •
-  <a href="mailto:aseef.nazrul@torontomu.ca">Email</a>
+  <a href="mailto:aseef217@gmail.com">Email</a>
 </p>
 
 ---
